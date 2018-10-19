@@ -1,0 +1,166 @@
+<resources>
+    <string name="app_name">AplikasiResep</string>
+    <string-array name="resep">
+        <item>Nasi Goreng Bakar\n</item>
+        <item>Cumi Masak Kecap Pedas\n</item>
+        <item>Kerang Dara Saus Pedas\n</item>
+        <item>Sayur Asem Jawa Tengah\n</item>
+    </string-array>
+    <string-array name="desc">
+        <item>Nasi bakar yang selama ini kita kenal ternyata bisa dibuat menjadi lebih lezat. Caranya adalah dengan menjadikannya sebagai nasi goreng bakar! Penasaran dengan cara membuatnya, bukan? Inilah Resepnya !\n</item>
+        <item>Memasak seafood sebetulnya lebih mudah daripada yang kita bayangkan. Misalkan saja untuk masakan cumi masak kecap pedas yang satu ini. Cukup membeli cumi yang segar dan tumis-tumis saja.\n</item>
+        <item>Resep sayur asem yang satu ini beda dari yang lain karena pakai kunyit sebagai rempah. Selain menambah kelezatan, kunyit terkenal memiliki berbagai manfaat untuk kesehatan. Antara lain untuk mengurangi gas pada sistem pencernaan yang bikin kembung sekaligus meredakan mual.\n </item>
+        <item>Resep sayur asem Jawa Tengah ini cukup khas karena bumbunya tidak dihaluskan, melainkan hanya diiris-iris saja. </item>
+    </string-array>
+    <string-array name="bahan">
+        <item>
+
+            Bahan-bahan :\n
+
+            1. 2 porsi nasi putih\n
+            2. 4 butir bakso sapi, potong-potong\n
+            3. 100 g ayam, potong dadu\n
+            4. 1 sdm Bango Kecap Manis\n
+            5. 1 sdt saus tiram\n
+            6. ½ sdt Royco Kaldu Ayam\n
+            7. 1 batang bawang daun, iris halus\n
+            8. 2 batang serai, ambil putihnya dan iris halus\n
+            9. 3 lembar daun salam\n
+            10. gula pasir\n
+            11. garam\n
+            12. lada\n
+            13. minyak sayur\n
+            14. daun pisang\n\n
+
+            Bumbu halus :\n
+
+            1. 10 buah cabai merah\n
+            2. 4 buah cabai rawit\n
+            3. 5 butir bawang merah\n
+            4. 3 siung bawang putih\n\n
+
+            Bahan pelengkap :\n
+
+            1. daun selada\n
+            2. daun kemangi\n
+            3. ketimun, iris\n
+            3. tomat, iris\n
+            4. bawang merah goreng\n
+            5. kerupuk\n
+
+
+
+        </item>
+        <item>
+            Bahan-bahan : \n
+
+            1. Royco Kaldu Ayam\n
+            2. Kecap Bango Manis\n
+            3. 300 g cumi\n
+            4. 2 lembar daun jeruk\n
+            5. 2 lembar daun salam\n
+            6. 3 sdm Bango Kecap Manis\n
+            7. ½ sdt Royco Kaldu Ayam\n
+            8. garam\n
+            9. lengkuas, memarkan\n
+            10. minyak sayur\n\n
+
+            Bumbu Halus :\n
+
+            1. 5 butir bawang merah\n
+            2. 3 siung bawang putih\n
+            3. 2 buah cabai merah keriting\n
+            4. 5 buah cabai rawit\n
+            5. jahe\n
+            6. kunyit\n
+
+
+        </item>
+        <item>
+            Bahan-bahan : \n
+
+            1. 1 kg kerang dara\n
+            2. 5 siung bawang putih, iris tipis\n
+            3. 5 butir bawang merah, iris tipis\n
+            4. 8 lembar daun jeruk purut\n
+            5. 8 lembar daun salam\n
+            6. 1 batang serai, memarkan\n
+            7. 1 ruas lengkuas, memarkan\n
+            8. 2 sdm cabai merah, giling\n
+            9. 15 batang pucuk daun kemangi\n
+            10. 1 batang bawang daun, iris serong\n
+            11. cabai rawit\n
+            12. 1 sdm Bango Kecap Manis\n
+            13. 1 sdm saus sambal\n
+            14. 1 sdm saus tiram\n
+            15. 1 sdt Royco Kaldu Ayam\n
+            16. minyak sayur\n
+
+
+        </item>
+        <item>
+            Bahan-bahan : \n
+
+            1. 4 buah labu siam, belah empat bagian\n
+            2. 6 buah kacang panjang, potong-potong\n
+            3. 1 buah jagung manis, potong-potong\n
+            4. 100 gr melinjo\n
+            5. 1 sdt asam jawa\n
+            6. 2 cm lengkuas, memarkan\n
+            7. 3 lembar daun salam\n
+            8. 1 liter air\n
+            9. 1 sdt gula\n
+            10. 1 sdt garam\n\n
+
+            Bumbu Halus : \n
+
+            11. 3 buah cabai merah\n
+            12. 2 buah cabai hijau\n
+            13. 5 siung bawang merah\n
+            14. siung bawang putih\n
+
+        </item>
+    </string-array>
+    <string-array name="cara">
+        <item>
+                Cara Memasak : \n
+                 1. Masak nasi bersama bumbu halus hingga harum, tambahkan daun salam dan serai. Masukkan ayam, masak hingga matang.\n
+                 2. Masukkan bakso sapi, saus tiram, Bango Kecap Manis, Royco Kaldu Ayam, gula pasir, lada, dan garam. aduk rata. Terakhir masukkan daun bawang dan daun kemangi, masak sebentar, angkat.\n
+                 3. Bagi nasi goreng menjadi 2 bagian lalu bungkus di daun pisang. Bakar sampai harum.\n
+                 4. Sajikan hangat dengan pelengkapnya.\n
+
+        </item>
+        <item>
+                Cara Memasak : \n
+                 1. Cuci bersih cumi. Potong-potong dan  beri perasan jeruk. Sisihkan.\n
+                 2. Tumis bumbu halus dengan minyak bersama daun salam, daun jeruk, dan lengkuas sampai mewangi.\n
+                 3. Tumis cumi dan aduk rata. Tambahkan Royco Kaldu Ayam, garam, dan Bango Kecap Manis. Aduk-aduk, tes rasa, dan masak hingga air menyusut. Sajikan.\n
+
+        </item>
+        <item>
+                Cara Memasak : \n
+                 1. Rebus kerang dengan garam sampai matang. Kupas sebelah kulit kerang. Sisihkan.\n
+                 2. Tumis bawang sampai wangi, masukkan daun jeruk, daun salam, serai, lengkuas, dan tumis sampai wangi. Lalu masukkan cabai merah, beri sedikit air.\n
+                 3. Setelah mendidih, masukkan kemangi, daun bawang, dan cabai rawit. Bumbui dengan Bango Kecap Manis, saus sambal, saus tiram, dan Royco Kaldu Ayam.\n
+                 4. Masukkan kerang rebus, aduk, lalu tutup wajan. Aduk sesekali saja, masak sampai air menyusut. Angkat. Sajikan.\n
+
+        </item>
+        <item>
+                Cara Memasak : \n
+                1. Cuci bersih semua sayuran. Sisihkan.\n
+                2. Larutkan asam jawa dengan 2 sdm air panas lalu saring. Ambil airnya dan sisihkan.\n
+                3. Didihkan air di dalam panci, masukkan bumbu iris, daun salam, dan lengkuas. Aduk rata dan biarkan sebentar.\n
+                4. Masukkan melinjo dan labu siam. Masak hingga agak matang.\n
+                5. Masak sisa sayuran lainnya dan diamkan hingga layu.\n
+                6. Tambahkan air asam jawa, gula, dan garam. Aduk rata dan angkat.\n
+        </item>
+    </string-array>
+    <string-array name="title">
+        <item>Cara 1</item>
+        <item>Cara 2</item>
+        <item>Cara 3 </item>
+        <item>Cara 4 </item>
+    </string-array>
+
+
+</resources>
